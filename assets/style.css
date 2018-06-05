@@ -36,19 +36,6 @@ body {
 			margin-right: 20px;
 		}
 
-		/* Option 2 for aligning elements: 
-		#section-1, #section-1 img {
-			float: left;
-		}
-
-		#section-2 {
-			float: right;
-		}
-
-		#section-1 img {
-			margin-right: 20px;
-		} */
-
 		#section-1 p, #section-2 ul li {
 			line-height: 1.5;
 		}
